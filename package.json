@@ -1,0 +1,16 @@
+{
+  "name": "DevApi",
+  "version": "1.0.0",
+  "description": "to do list",
+  "main": "app.js",
+  "author": "Louis <louis.teilliais@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {},
+  "scripts": {
+    "dev": "nodemon server-raw.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
